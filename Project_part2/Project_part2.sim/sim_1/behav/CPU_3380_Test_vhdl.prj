@@ -1,0 +1,20 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/full_adder2.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/MUX312.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/and_gate2.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/or_gate2.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/ALU4.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/Registers2.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/PC_REG.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/new/JMP_Concat.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/Signextend1.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/mux3_11.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/mux2_11.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/Memory.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/Control1.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/ALU_16Bit3.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sources_1/imports/project_part1/CPU_33802.vhd"
+vhdl xil_defaultlib  "../../../project_2.srcs/sim_1/imports/project_part1/CPU_3380_Test11.vhd"
+
+# Do not sort compile order
+nosort
